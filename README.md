@@ -4,7 +4,7 @@ A simple and responsive personal portfolio website built using only HTML and CSS
 
 ## 🌐 Demo
 
-You can view the live version [Link](#) *(replace `#` with your live link if deployed)*
+You can view the live version [https://skathiravaninbox.github.io/portfolio-simple-website/index.html]
 
 ## 📁 Pages Included
 
